@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "67ee65bc1e02920b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1235cf23c3351b9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Research CAL Lab/VAM Workshop Notes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca303da8839225eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "542f51360fef1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac3e836a27edacc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2cdd1bdfca9523c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "image",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258
+  },
+  "right": {
+    "id": "eeb7eb4dcd4ddfa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b57746f1dba8ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "268db0cc93561f42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research CAL Lab/VAM Workshop Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "276fa09c38e22e38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1235cf23c3351b9e",
+  "lastOpenFiles": [
+    "Research CAL Lab/VAM Workshop Notes.md",
+    "Research CAL Lab/The Life Time of Dissolving Polymeric Particle.md",
+    "Xtraneous/The Life Time of Dissolving Polymeric Particle.md",
+    "Xtraneous/Pasted image 20210903153923.png",
+    "Course Work/Introduction to Robotics/(3) Rigid Motion in R3.md",
+    "Course Work/Introduction to Robotics/(4) Velocity of a Rigid Body.md",
+    "Course Work/Introduction to Robotics/Week 03.md",
+    "Pasted image 20210916182537.png",
+    "Course Work/Introduction to Robotics/Untitled.md",
+    "Course Work/IoT/Resistive Circuits.md"
+  ]
+}

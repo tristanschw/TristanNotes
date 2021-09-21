@@ -1,0 +1,17 @@
+**Recall**: 
+- Matrices
+- vectors
+- invertibility
+- determinants
+- matrix exponential
+- four fundamental subspaces
+- linear independence and span
+- basis
+- eigenstuff
+- abstract vector spaces
+- inner products
+- euclidean norm
+- projections
+- taylor series
+- singular value decomposition
+- basic mechanics
