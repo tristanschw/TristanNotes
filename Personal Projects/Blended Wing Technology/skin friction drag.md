@@ -1,0 +1,3 @@
+[[skin friction drag]]is the aerodynamic resistance due to the contact of moving air with the surface of the aircraft. Every surface is rough under a microscope, so the air molecules which come into contact with the surface of the wing are virtually stuck.
+
+[[skin friction drag]] is largely dependent on the material of the airfoil or body, but also the shape of the wing, air viscosity, and air compressibility. 

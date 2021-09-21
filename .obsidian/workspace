@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "8ffe638e5a935ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d670af92254f63",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99761624a6f770df",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a819a26a3817579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232316d64e274c92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e52d5cfeafb600b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "monomer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242
+  },
+  "right": {
+    "id": "5d374e7ae26a7a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e64db05bc3da1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612d28d24777f37e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69d670af92254f63",
+  "lastOpenFiles": [
+    "Research CAL Lab/CALProcess/Model for Shearing of Uncured Material.md",
+    "Research CAL Lab/CALProcess/Post-Processing Papers and Links (For Weekend Reading).md",
+    "Research CAL Lab/CALProcess/Post-Processing Review of Post Processing Techniques.md",
+    "Research CAL Lab/CALProcess/Disengagement Dynamics, Polymer.pdf",
+    "Research CAL Lab/CALProcess/Polymeric Particles (Extra Save in case I mess up Github).md",
+    "Pasted image 20210829111903.png.md",
+    "Mechanical Design Experience/Mechanical Verbage/Mechanical Verbage.md",
+    "Mechanical Design Experience/Mechanical Verbage/Misc./Grommets.md",
+    "Mechanical Design Experience/Mechanical Verbage/Misc./Shims.md",
+    "Mechanical Design Experience/Mechanical Verbage/Screws/Thumb Screws.md"
+  ]
+}

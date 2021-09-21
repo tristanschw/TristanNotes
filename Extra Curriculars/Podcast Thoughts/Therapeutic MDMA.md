@@ -1,0 +1,1 @@
+The FDA is going into approval for treating patients with PTSD using extasy, a popular club culture drug. Research was performed by a 501(c)(3) non-profit called MAPS, (https://maps.org/research/mdma) which performed a study using a placebo and MDMA for treating PTSD patients. The drug is being approved in combination with talk therapy to treat patients who stuggle with PTSD. 

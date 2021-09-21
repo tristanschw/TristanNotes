@@ -1,0 +1,7 @@
+-video upload from design innovation
+- potential applications of lattices based on the lattice project from design innovation #airbags, #cushions, #chairs, #mousepads, #aerospace
+- Project from E27 (after some brush ups)
+- Dimensional analysis -- basic ideas for applications
+- Private page, hotfire of E1 with photos, videos and explanation posted here [[Hot Fire in the Desert -- What to Expect and What Becomes Expected]]
+- Initial Design Review, Metal Additive Manufacturing (why the hell a metal printer is so expensive, and how to build one that is cheaper)
+- An upload on the things you've learned every semester

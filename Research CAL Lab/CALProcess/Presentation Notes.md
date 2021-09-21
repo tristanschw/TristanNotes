@@ -1,0 +1,7 @@
+**Slide 4: Polymer Dissolution**
+[[Model 2]]
+There are many different dissolution models and none are perfectly accurate. All make assumptions such as Fickian Dissolution, reptation modeling, diffusion coefficient... The difference in models is largely dependent upon the kinetics assumptions which were made. For example, is the polymer chain disassociating completely controlled by the process at the gel-liquid interface (4.1.3)? Or does it "soak" into the gel-polymer interface and cause swelling(4.1.1)? Is the disassocation diffusional controlled or dissociation controlled? Is the process Fickian? Do we use the model of reptation (4.1.2)? Do we assume that the resistance offered by the layer directly adjacent to the polymer is important to polymer dissolution (4.2.1)? Or, lastly, is the easiest method to model this system to use the stress relaxation with molecular theory proposed in (4.3.1) which relates the solvent flux in the system to the polymer concentration, the stress present in the system and the osmotic pressure?
+
+Based on the review, I made an educated guess to review the math and understand the Disengagement Dynamics model because the review paper mentions that it is the most accurate model to date.
+
+A review of polymer dissolution, Chou and Koenig, Elsevier 2002
